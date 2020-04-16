@@ -1,0 +1,21 @@
+h1{
+	text-shadow: 2pt 2pt 13pt #8B0000;
+	color: 	#A52A2A;
+	font-size: 150px;
+}
+
+body{
+	background: black;
+}
+h2{
+	color: 	#FFD700;
+	font-size: 50px;
+	
+}
+p{
+	 color:  white;
+	 font-size: 23px;
+	 font-family: Arial;
+	 display: block;
+	 text-align: justify;
+	}
